@@ -34,11 +34,19 @@ Pitch mean.
 Pitch standard deviation.
 
 Fraction of voiced region.
+
 5. Building training and testing data
+
 6. Modelling 
+
 7. Finding Accuracy
+
 8. Finding the best value of C and gamma value for SVC
+
 9. Displaying the confusion matrix
+
 10. Displaying the Classification Report
+
 11. Plotting heatmap
+
 12. Predict the value of the validation accuracy as a function of C
